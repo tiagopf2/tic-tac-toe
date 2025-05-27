@@ -1,5 +1,6 @@
-import socket
+# Written by Tiago Perez
 
+import socket
 
 my_ip = 'XXXX'
 port = 4444
